@@ -1,2 +1,2 @@
 # election-predictor
-Project US Senate, House, Gubernatorial election results based on CNN data
+Project US Senate election results based on CNN data
